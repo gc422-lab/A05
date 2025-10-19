@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e519e78-5db8-4233-8315-a863ce2de376" name="Changes" comment="A05 assignment" />
+    <list default="true" id="2e519e78-5db8-4233-8315-a863ce2de376" name="Changes" comment="A05 assignment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A05/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A05/speakers/brancaccio.html" beforeDir="false" afterPath="$PROJECT_DIR$/A05/speakers/brancaccio.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gc422-lab&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gc422-lab/A05.git&quot;,
+    &quot;accountId&quot;: &quot;9635c1b5-9608-4c0a-b2da-c012586a1aab&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -39,6 +56,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.A05.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.brancaccio.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -54,6 +72,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IS117 Download\A05\A05" />
+      <recent name="C:\IS117 Download\A05\A05\speakers" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,10 +97,25 @@
       <workItem from="1760480073358" duration="617000" />
       <workItem from="1760572741443" duration="3235000" />
       <workItem from="1760827785580" duration="2176000" />
+      <workItem from="1760830017894" duration="1447000" />
+      <workItem from="1760831537593" duration="866000" />
     </task>
+    <task id="LOCAL-00001" summary="A05 assignment">
+      <option name="closed" value="true" />
+      <created>1760830046985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760830046985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A05 assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="A05 assignment" />
   </component>
 </project>
